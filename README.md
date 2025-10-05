@@ -1,6 +1,3 @@
-# tribute-page
-Projet FreeCodeCamp
-
 # Job Application Form
 
 Projet réalisé dans le cadre du parcours **Full Stack Developer** sur FreeCodeCamp.
